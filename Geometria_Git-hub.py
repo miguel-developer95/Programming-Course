@@ -1,7 +1,7 @@
 while True:
   try:
     print("select a figure")
-    print("1. cuadrado")
+    print("1. square")
     print("2. triángulo")
     print("3. rectángulo")
     print("4. círculo")
