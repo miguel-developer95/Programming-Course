@@ -1,6 +1,6 @@
 while True:
   try:
-    print("seleccione una figura")
+    print("select a figure")
     print("1. cuadrado")
     print("2. triángulo")
     print("3. rectángulo")
@@ -20,7 +20,6 @@ while True:
         print("has seleccionado 3.")
       case 4:
         print("has seleccionado 4.")
-        break
       case _:
         print("error: Opción no válida. Por favor, seleccione un número entre 1 y 4.")
         continue # Solicitar información nuevamente
